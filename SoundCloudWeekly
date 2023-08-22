@@ -1,0 +1,64 @@
+{
+  "data": {
+    "matchForYou": [
+      {
+        "userId": "16542600",
+        "soundCloudWeekly": [
+          {
+            "title": "Roxanne (BLOND:ISH Sunrise Rework)",
+            "artist": "BLOND:ISH",
+            "image": "https://i1.sndcdn.com/artworks-UzR6y9ct4hyC8s47-4ryMBg-t500x500.jpg",
+            "link": "https://soundcloud.com/blondish/roxanne-blondish-sunrise-rework?"
+          },
+          {
+            "title": "Ayra Starr - Rush (Manqo Edit) Free DL",
+            "artist": "Mango",
+            "image": "https://i1.sndcdn.com/artworks-y0dDBGwQ6PTM0h7D-tGGI3Q-t500x500.jpg",
+            "link": "https://soundcloud.com/manqo/ayra-starr-rush-manqo-edit"
+          },
+          {
+            "title": "Bantwanas Ft Xolisiwe - Back To Front (Dub)",
+            "artist": "All Day I Dream",
+            "image": "https://i1.sndcdn.com/artworks-000593205035-zj3shm-t500x500.jpg",
+            "link": "https://soundcloud.com/alldayidream/bantwanas-ft-xolisiwe-back-to"
+          },
+          {
+            "title": "JACKIE BROWN",
+            "artist": "Brent Faiyaz",
+            "image": "https://i1.sndcdn.com/artworks-O2SRR9SCgyRq4u4v-eAojjA-t500x500.jpg",
+            "link": "https://soundcloud.com/brentfaiyaz/jackie-brown-5"
+          }
+        ]
+      },
+      {
+        "userId": "16542601",
+        "soundCloudWeekly": [
+          {
+            "title": "Mourning",
+            "artist": "Post Malone",
+            "image": "https://i1.sndcdn.com/artworks-vY36X2nh9okY-0-t500x500.jpg",
+            "link": "https://soundcloud.com/postmalone/post-malone-mourning"
+          },
+          {
+            "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+            "artist": "Lil Nas X",
+            "image": "https://i1.sndcdn.com/artworks-V2ASrgQOXKFw-0-t500x500.jpg",
+            "link": "https://soundcloud.com/secret-service-862007284/star-walkin-league-of-legends"
+          },
+          {
+            "title": "Tyler, The Creator - WHAT A DAY",
+            "artist": "yler, The Creator",
+            "image": "https://i1.sndcdn.com/artworks-m246RxeJBWte-0-t500x500.jpg",
+            "link": "https://soundcloud.com/tylerthecreatorofficial/tyler-the-creator-what-a-day"
+          },
+          {
+            "title": "What Was I Made For? [From The Motion Picture Barbie]",
+            "artist": "Billie Eilish",
+            "image": "https://i1.sndcdn.com/artworks-oN3SX3oOjfMk-0-t500x500.jpg",
+            "link": "https://soundcloud.com/billieeilish/what-was-i-made-for-from-the"
+          }
+        ]
+      }
+    ]
+  }
+}
